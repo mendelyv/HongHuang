@@ -1,0 +1,15 @@
+﻿<Root>
+	<Item name="日暮剑" iconName="日暮剑" hp="0" mp="0" atk="25" def="0" num="0" canOverly="0">一把增加攻击力的剑</Item>
+	<Item name="杜康" iconName="杜康" hp="0" mp="100" atk="0" def="0" num="0" canOverly="1">可以增加精神力的酒，何以解忧，唯有杜康</Item>
+	<Item name="藏锋布袍" iconName="藏锋布袍" hp="0" mp="0" atk="0" def="15" num="0" canOverly="0">纯手工缝制布袍，可以增加部分防御力</Item>
+	<Item name="藏锋布鞋" iconName="臧峰布鞋" hp="0" mp="0" atk="25" def="0" num="0" canOverly="0">纯手工缝制布鞋，可以增加部分防御力</Item>
+	<Item name="行军散" iconName="行军散" hp="200" mp="0" atk="0" def="0" num="0" canOverly="1">高度压缩的药丸，可以补充气血</Item>
+	<Item name="残阳戒指" iconName="残阳戒指" hp="0" mp="0" atk="10" def="0" num="0" canOverly="0">一枚有缺口的戒指</Item>
+	<Item name="残阳项链" iconName="残阳项链" hp="0" mp="0" atk="10" def="10" num="0" canOverly="0">很普通的项链，表面布满岁月的痕迹</Item>
+	<Item name="离火戒指" iconName="离火戒指" hp="0" mp="0" atk="25" def="5" num="0" canOverly="0">漂亮的翡翠戒指</Item>
+	<Item name="离火项链" iconName="离火项链" hp="0" mp="0" atk="10" def="20" num="0" canOverly="0">漂亮的翡翠项链</Item>
+	<Item name="藏锋剑" iconName="藏锋剑" hp="0" mp="0" atk="30" def="0" num="0" canOverly="0">外观古朴</Item>
+	<Item name="藏锋布裤" iconName="藏锋布裤" hp="0" mp="0" atk="0" def="15" num="0" canOverly="0">纯手工缝制布裤，可以增加部分防御力</Item>
+	<Item name="藏锋护腕" iconName="藏锋护腕" hp="0" mp="0" atk="5" def="5" num="0" canOverly="0">纯手工缝制护腕，可以增加部分攻击力和防御力</Item>
+	<Item name="藏锋腰带" iconName="藏锋腰带" hp="0" mp="0" atk="5" def="10" num="0" canOverly="0">纯手工缝制腰带，可以增加部分攻击力和防御力</Item>
+</Root>

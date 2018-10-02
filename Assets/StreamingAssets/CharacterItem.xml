@@ -1,0 +1,12 @@
+﻿<Bag>
+	<Character name="杨戬">
+		<Item name="杜康" num="10"></Item>
+		<Item name="行军散" num="5"></Item>
+		<Item name="日暮剑" num="5"></Item>
+	</Character>
+	<Character name="丘处机">
+		<Item name="杜康" num="10"></Item>
+		<Item name="行军散" num="5"></Item>
+		<Item name="日暮剑" num="3"></Item>
+	</Character>
+</Bag>

@@ -1,0 +1,6 @@
+﻿<Root>
+	<Account userName="aaa">
+		<Character name="杨戬" type="1" maxHP="500" currentHP="500" maxMP="350" currentMP="350" maxExp="150" currentExp="0" atk="25" def="10" level="1" golden="100" attackDistance="3" attackBetween="0" HPrecoverAmount="3" MPrecoverAmount="1" sceneName="TianGong" sceneXPos="56.16412" sceneYPos="55.46" sceneZPos="55.55793"></Character>
+		<Character name="丘处机" type="1" maxHP="5000" currentHP="5000" maxMP="3500" currentMP="3500" maxExp="150" currentExp="0" atk="125" def="100" level="1" golden="100" attackDistance="3" attackBetween="0" HPrecoverAmount="30" MPrecoverAmount="10" sceneName="TianGong" sceneXPos="56.16412" sceneYPos="52.46" sceneZPos="55.55793"></Character>
+	</Account>
+</Root>
